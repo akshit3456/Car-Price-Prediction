@@ -39,7 +39,7 @@ The dataset consists of:
   > cd Car-Price-Prediction
 
  3. Add dataset:
-  > Add dataset file to the content folder.
+  > Add dataset file to the content folder and in content folder create one folder name **data** to save graphs.
 
  4. Run the project:
   > Connect collab file and click run all cell from top run options.
